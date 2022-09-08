@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoadPage.qml</file>
+        <file>diet.png</file>
+        <file>MainPage.qml</file>
+        <file>Assets/female-icon.png</file>
+        <file>Assets/male-icon.png</file>
+    </qresource>
+</RCC>
